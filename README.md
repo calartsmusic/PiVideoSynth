@@ -1,0 +1,1 @@
+This is the READ ME file for the PiVideoSynth
